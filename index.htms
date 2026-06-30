@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!DOCTYPE html>  <!--Não é bem uma tag HTML, mas um aviso para o navegador.Ele diz:
+"Ei, navegador,este documento foi escrito em HTML5, a versão mais moderna!".-->
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
